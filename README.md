@@ -2,7 +2,7 @@
 I'm an acoustic engineer who is exploring ways in his free time to remember often overlooked concepts in signal processing.
 This is a repository where I will start off by adding little tutorials on random but useful topics.
 
-I am new to Git and version controlling, because this is a rather software developer centric domain. Perhaps I'll learn the ropes properly one day, in hopes that this will be a neat little tool to organize ideas.
+I am new to Git and version controlling, because this is a rather software developer centric domain. Perhaps I'll learn the ropes properly one day, in hopes that this will be a neat little tool to organize and share ideas.
 
 <!--
 **MrBepis/MrBepis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
